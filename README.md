@@ -2,8 +2,8 @@
 
 DATABASE CREATED
 
-DATA IMPORTED 
-Data imported through csv file
+DATA IMPORTED  
+Data imported through csv file (Kaggle)
 
 DATA EXPLORATION 
 1. Checking table schema
