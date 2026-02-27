@@ -1,4 +1,4 @@
-﻿Category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
+﻿category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
 Fruits & Vegetables,Onion,2500,16,3,2100,1000,FALSE,1
 Fruits & Vegetables,Tomato Hybrid,4200,16,3,3500,1000,FALSE,1
 Fruits & Vegetables,Tender Coconut,5100,15,3,4300,58,FALSE,1
@@ -3731,3 +3731,4 @@ Health & Hygiene,Dabur Honitus Herbal Cough Remedy Ayurvedic Syrup,10500,15,0,89
 Health & Hygiene,Whisper Bindazzz Night Sanitary Pads XL Plus,18500,0,0,18500,870,TRUE,15
 Health & Hygiene,Fine Life Cotton Balls,6000,0,0,6000,50,TRUE,50
 Health & Hygiene,Dettol Antiseptic Liquid,3000,0,0,3000,60,TRUE,60
+
