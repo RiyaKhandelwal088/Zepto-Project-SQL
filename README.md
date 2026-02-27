@@ -2,10 +2,10 @@
 
 DATABASE CREATED
 
-DATA IMPORTED  
+DATA IMPORTED 
 Data imported through csv file
 
-DATA EXPLORATION  
+DATA EXPLORATION 
 1. Checking table schema
 2. Checking null values.
 3. Counting rows
