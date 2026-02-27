@@ -3,7 +3,7 @@
 DATABASE CREATED
 
 DATA IMPORTED  
-Data imported through csv file (Kaggle)
+Data imported through csv file (Kaggle Dataset)
 
 DATA EXPLORATION 
 1. Checking table schema
