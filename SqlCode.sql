@@ -1,18 +1,18 @@
 -- CREATE DATABASE IF NOT EXISTS zepto;
 -- USE zepto;
 
--- create table product (
--- sku_id INT AUTO_INCREMENT PRIMARY KEY ,
--- category VARCHAR(150),
--- name VARCHAR(150) NOT NULL,
--- mrp DECIMAL(8,2),
--- discountPercent DECIMAL(5,2),
--- availableQuantity INT,
--- discountedSellingPrice DECIMAL(8,2),
--- weightInGms INT,
--- outOfStock BOOLEAN,	
--- quantity INT
--- );
+create table product (
+sku_id INT AUTO_INCREMENT PRIMARY KEY ,
+category VARCHAR(150),
+name VARCHAR(150) NOT NULL,
+mrp DECIMAL(8,2),
+discountPercent DECIMAL(5,2),
+availableQuantity INT,
+discountedSellingPrice DECIMAL(8,2),
+weightInGms INT,
+outOfStock BOOLEAN,	
+quantity INT
+);
 
 
 
@@ -65,12 +65,16 @@ ORDER BY category;
 
 select * from product;
 
+
+
 -- product names present multiple times
 select name , count(category) as No_Of_times
 from product
 group by name 
 having No_Of_times > 1
 order by No_Of_times desc ;
+
+
 
 
 -- [ DATA CLEANING ]
