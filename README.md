@@ -1,4 +1,4 @@
-# Zepto-Project
+# Zepto-Project-SQL
 
 DATABASE CREATED
 
